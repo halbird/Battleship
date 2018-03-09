@@ -1,4 +1,4 @@
-# Battleship-game
+# Battleship
 The game of battleship written in python.  
 
 Created using Codecademy python lesson.   
